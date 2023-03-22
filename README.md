@@ -1,2 +1,2 @@
 # Hello-World-Github
-Hello
+Hello, I'm Leung Chi Hin at CUHK AIST!
